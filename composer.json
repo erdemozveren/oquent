@@ -1,0 +1,16 @@
+{
+    "name": "erdemozveren/oquent",
+    "description": "OrientDb Eloquent-like Driver for Laravel",
+    "type": "library",
+    "require": {
+        "ostico/phporient": "^1.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erdem Özveren",
+            "email": "erdemozveren35@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
