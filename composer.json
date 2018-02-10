@@ -2,6 +2,7 @@
     "name": "erdemozveren/oquent",
     "description": "OrientDb Eloquent-like Driver for Laravel",
     "type": "library",
+    "version": "1.0.0",
     "require": {
         "ostico/phporient": "^1.2"
     },
