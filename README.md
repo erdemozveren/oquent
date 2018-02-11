@@ -1,5 +1,5 @@
 # Oquent
-Orientdb Eloquent-like driver for Laravel 5 (Alpha)
+Orientdb Eloquent-like driver for Laravel 5 using the binary protocol [PhpOrient](https://github.com/Ostico/PhpOrient).  (Not Ready For Production)
 
 ## What is Oquent ?
 Oquent goal is lets you use OrientDB as usual Eloquent.It's on development and should not be used in production for now.
